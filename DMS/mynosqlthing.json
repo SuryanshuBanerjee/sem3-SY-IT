@@ -1,0 +1,62 @@
+[
+  {
+    "member_id": 1,
+    "name": "Shivangi Adhikari",
+    "age": 20,
+    "relation": "Self",
+    "occupation": "Student",
+    "city": "Pune",
+    "phone_number": "1234567890",
+    "email": "shivangi@email.com"
+  },
+  {
+    "member_id": 2,
+    "name": "Anita Adhikari",
+    "age": 45,
+    "relation": "Mother",
+    "occupation": "Teacher",
+    "city": "Pune",
+    "phone_number": "9876543210",
+    "email": "anita@email.com"
+  },
+  {
+    "member_id": 3,
+    "name": "Amit Adhikari",
+    "age": 50,
+    "relation": "Father",
+    "occupation": "Engineer",
+    "city": "Mumbai",
+    "phone_number": "5566778899",
+    "email": "amit@email.com"
+  },
+  {
+    "member_id": 4,
+    "name": "Rohan Sharma",
+    "age": 22,
+    "relation": "Cousin",
+    "occupation": "Student",
+    "city": "Delhi",
+    "phone_number": "9988776655",
+    "email": "rohan@email.com"
+  },
+  {
+    "member_id": 5,
+    "name": "Priya Adhikari",
+    "age": 16,
+    "relation": "Sister",
+    "occupation": "Student",
+    "city": "Pune",
+    "phone_number": "7766554433",
+    "email": "priya@email.com"
+  },
+  {
+    "member_id": 6,
+    "name": "Ravi Adhikari",
+    "age": 28,
+    "relation": "Uncle",
+    "occupation": "Doctor",
+    "city": "Bangalore",
+    "phone_number": "8899665544",
+    "email": "ravi@email.com"
+  }
+]
